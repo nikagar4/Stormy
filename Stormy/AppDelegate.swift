@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Stormy
 //
-//  Created by Tegeta on 3/8/16.
+//  Created by Nikoloz Garibashvili on 3/8/16.
 //  Copyright © 2016 Tegeta. All rights reserved.
 //
 
