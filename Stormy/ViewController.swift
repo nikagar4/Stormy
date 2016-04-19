@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     
     
-    private let forecastAPIKey = "07626b17fb18c227c675faa9d914434f"
+    private let forecastAPIKey = "yourAPIKey"
     //let coordinate: (lat: Double, long: Double) = (37.8267,-122.423)
     let coordinate: (lat: Double, long: Double) = (41.706799,44.780346)
     
